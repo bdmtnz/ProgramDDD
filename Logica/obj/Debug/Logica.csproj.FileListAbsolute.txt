@@ -1,0 +1,11 @@
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\bin\Debug\Logica.dll
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\bin\Debug\Logica.pdb
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\bin\Debug\Datos.dll
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\bin\Debug\Entidades.dll
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\bin\Debug\Datos.pdb
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\bin\Debug\Entidades.pdb
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\obj\Debug\Logica.dll
+C:\Users\bdmtnz\Documents\Desktop\ProgramDDP\Logica\obj\Debug\Logica.pdb
